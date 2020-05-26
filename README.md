@@ -93,7 +93,7 @@ var themeName = 'themename',
 ## __Adding Google fonts switch by translator and resources hints__
 
 Go the link and add it to your functions.php and make sure to replace `text_domain` with you theme text domain.
-[WordPress Google Fonts Functions](https://gist.github.com/danyaneh/826063b377f94151c7bc54783873c752).
+[WordPress Google Fonts Functions](https://gist.github.com/daniloparrajr/826063b377f94151c7bc54783873c752).
 
 ## __Adding SVG Icons to theme and Social Menus__
 
